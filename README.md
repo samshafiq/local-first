@@ -12,8 +12,5 @@ This is my sixth line. But adding on GitHub.
 
 This seventh line.
 
-<<<<<<< HEAD
-new text in main branch.
-=======
-test in new branch with conflict.
->>>>>>> e2026ddd379e2e29df58c44074237f87365eece5
+new text in main branch new.
+
