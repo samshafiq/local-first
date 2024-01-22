@@ -13,3 +13,5 @@ This is my sixth line. But adding on GitHub.
 This seventh line.
 
 test in new branch with conflict. and some new text
+
+testing again for conflict.
