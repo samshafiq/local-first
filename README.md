@@ -14,4 +14,4 @@ This seventh line.
 
 test in new branch with conflict. and some new text
 
-testing again for conflict.
+testing again for conflict.again.
