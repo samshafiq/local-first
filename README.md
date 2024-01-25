@@ -8,4 +8,8 @@ another change online. change on local.
 
 This is my code on line 9. after merge conflict.
 
-added text to the main branch.
+Add a new text to my SS branch.
+
+for the purposes of PA 466.
+
+added for change.
