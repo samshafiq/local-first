@@ -12,4 +12,5 @@ Add a new text to my SS branch.
 
 for the purposes of PA 466.
 
-added for change.
+made a change to my SS branch.
+
