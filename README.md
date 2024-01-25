@@ -13,3 +13,5 @@ Add a new text to my SS branch.
 for the purposes of PA 466.
 
 added for change.
+
+I have made readme much, much better.
