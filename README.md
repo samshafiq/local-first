@@ -15,4 +15,4 @@ This is the change I made online.
 
 I am making this readme better.
 
-I made a change to my personal branch.
+I made a change to my personal branch. I make an edit.
