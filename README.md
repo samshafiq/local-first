@@ -11,4 +11,8 @@ changing locally
 
 Adding a new line
 
+<<<<<<< HEAD
 making the map better
+=======
+add a new line in ss branch
+>>>>>>> 47ca3840174c89118cbc3cc635640079110d6b4c
